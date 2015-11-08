@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	background-image: url("../img/mori.jpg");
+	background-size:cover; /*おまけ　背景はcoverを使うと全体を覆うことができる*/
+}
+
+h1{
+	color:darkblue;
+}
+h2{
+	color:goldenrod;
+}
+div#area {
+	position: relative;
+	margin: auto;
+}
+
+#img1 {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+}
